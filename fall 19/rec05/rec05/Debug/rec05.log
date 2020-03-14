@@ -1,0 +1,6 @@
+﻿  rec05.cpp
+C:\Users\aisla\Documents\CS2134\fall 19\rec05\rec05\rec05.cpp(18,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\aisla\Documents\CS2134\fall 19\rec05\rec05\rec05.cpp(54,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\aisla\Documents\CS2134\fall 19\rec05\rec05\rec05.cpp(236,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\aisla\Documents\CS2134\fall 19\rec05\rec05\rec05.cpp(239,22): warning C4018:  '<': signed/unsigned mismatch
+  rec05.vcxproj -> C:\Users\aisla\Documents\CS2134\fall 19\rec05\Debug\rec05.exe

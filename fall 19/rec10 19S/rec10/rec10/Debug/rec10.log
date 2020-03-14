@@ -1,0 +1,3 @@
+﻿  rec10.cpp
+  C:\Users\aisla\Documents\CS2134\fall 19\rec10 19S\rec10\rec10\rec10.cpp(159) : warning C4715: 'MILL::loanOut': not all control paths return a value
+  rec10.vcxproj -> C:\Users\aisla\Documents\CS2134\fall 19\rec10 19S\rec10\Debug\rec10.exe

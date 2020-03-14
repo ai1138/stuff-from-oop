@@ -1,0 +1,4 @@
+﻿  rec)6.cpp
+C:\Users\aisla\Documents\CS2134\fall 19\rec)6\rec)6\rec)6.cpp(118,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\aisla\Documents\CS2134\fall 19\rec)6\rec)6\rec)6.cpp(122,22): warning C4018:  '<': signed/unsigned mismatch
+  rec)6.vcxproj -> C:\Users\aisla\Documents\CS2134\fall 19\rec)6\Debug\rec)6.exe

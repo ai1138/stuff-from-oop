@@ -1,0 +1,126 @@
+﻿  hw04.cpp
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(14,8): error C2143:  syntax error: missing ';' before '<'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(14,17): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(14,23): error C2238:  unexpected token(s) preceding ';'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(16,1): error C2236:  unexpected token 'class'. Did you forget a ';'?
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(17,1): error C2059:  syntax error: '{'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(17,1): error C2143:  syntax error: missing ';' before '{'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(17,1): error C2447:  '{': missing function header (old-style formal list?)
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(108,20): error C2065:  'vector': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(108,27): error C2065:  'Warrior': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(108,37): error C2065:  'warriorCatalog': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(108,53): error C2065:  'Warrior': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(108,61): error C2146:  syntax error: missing ')' before identifier 'w1'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(109,18): error C2065:  'vector': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(109,25): error C2065:  'Warrior': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(109,35): error C2065:  'warriorCatalog': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(109,51): error C2065:  'string': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(109,58): error C2146:  syntax error: missing ')' before identifier 'w1'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(110,16): error C2065:  'vector': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(110,23): error C2065:  'Warrior': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(110,33): error C2065:  'warriorCatalog': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(110,47): error C2182:  'gameStats': illegal use of type 'void'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(111,8): error C2143:  syntax error: missing ';' before '&'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(111,8): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(111,30): error C2065:  'os': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(111,34): error C2065:  'Warrior': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(111,43): error C2065:  's': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(111,44): error C2473:  'operator <<': looks like a function definition, but there is no parameter list.
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(111,44): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(111,45): error C2440:  'initializing': cannot convert from 'initializer list' to 'int &'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(111,20): message :  A reference type cannot be value-initialized
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(115,26): error C2440:  'initializing': cannot convert from 'const char [12]' to 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(115,26): message :  No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(116,32): error C2440:  'initializing': cannot convert from 'const char [16]' to 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(116,32): message :  No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(117,18): error C2440:  'initializing': cannot convert from 'const char [4]' to 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(117,18): message :  No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(118,31): error C2440:  'initializing': cannot convert from 'const char [15]' to 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(118,31): message :  No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(119,28): error C2440:  'initializing': cannot convert from 'const char [11]' to 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(119,28): message :  No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(121,2): error C2065:  'Warrior': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(121,10): error C2146:  syntax error: missing ';' before identifier 'cheetah'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(121,10): error C3861:  'cheetah': identifier not found
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(122,2): error C2065:  'Warrior': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(122,10): error C2146:  syntax error: missing ';' before identifier 'wizard'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(122,10): error C3861:  'wizard': identifier not found
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(123,2): error C2065:  'Warrior': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(123,10): error C2146:  syntax error: missing ';' before identifier 'theGovernator'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(123,10): error C3861:  'theGovernator': identifier not found
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(124,2): error C2065:  'Warrior': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(124,10): error C2146:  syntax error: missing ';' before identifier 'nimoy'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(124,10): error C3861:  'nimoy': identifier not found
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(125,2): error C2065:  'Warrior': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(125,10): error C2146:  syntax error: missing ';' before identifier 'lawless'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(125,10): error C3861:  'lawless': identifier not found
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(126,2): error C2065:  'Warrior': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(126,10): error C2146:  syntax error: missing ';' before identifier 'mrGreen'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(126,10): error C3861:  'mrGreen': identifier not found
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(127,2): error C2065:  'Warrior': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(127,10): error C2146:  syntax error: missing ';' before identifier 'dylan'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(127,10): error C3861:  'dylan': identifier not found
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(129,10): error C2039:  'hire': is not a member of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(9): message :  see declaration of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(129,11): error C2065:  'nimoy': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(130,12): error C2039:  'hire': is not a member of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(9): message :  see declaration of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(130,13): error C2065:  'theGovernator': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(131,10): error C2039:  'hire': is not a member of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(9): message :  see declaration of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(131,11): error C2065:  'wizard': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(132,12): error C2039:  'hire': is not a member of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(9): message :  see declaration of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(132,13): error C2065:  'dylan': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(133,12): error C2039:  'hire': is not a member of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(9): message :  see declaration of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(133,13): error C2065:  'lawless': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(134,13): error C2039:  'hire': is not a member of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(9): message :  see declaration of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(134,14): error C2065:  'mrGreen': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(135,10): error C2039:  'hire': is not a member of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(9): message :  see declaration of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(135,11): error C2065:  'cheetah': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(137,2): error C2065:  'cout': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(139,2): error C2065:  'cout': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(139,17): error C2065:  'endl': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(140,2): error C2065:  'cout': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(140,19): error C2065:  'endl': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(141,2): error C2065:  'cout': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(141,17): error C2065:  'endl': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(142,2): error C2065:  'cout': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(142,19): error C2065:  'endl': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(143,2): error C2065:  'cout': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(143,20): error C2065:  'endl': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(144,2): error C2065:  'cout': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(146,10): error C2039:  'fire': is not a member of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(9): message :  see declaration of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(146,11): error C2065:  'cheetah': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(147,2): error C2065:  'cout': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(147,17): error C2065:  'endl': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(149,12): error C2039:  'battle': is not a member of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(9): message :  see declaration of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(150,12): error C2039:  'battle': is not a member of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(9): message :  see declaration of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(151,14): error C2039:  'battle': is not a member of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(9): message :  see declaration of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(152,15): error C2039:  'battle': is not a member of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(9): message :  see declaration of 'Noble'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(154,2): error C2065:  'cout': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(156,2): error C2065:  'cout': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(156,17): error C2065:  'endl': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(157,2): error C2065:  'cout': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(157,19): error C2065:  'endl': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(158,2): error C2065:  'cout': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(158,17): error C2065:  'endl': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(159,2): error C2065:  'cout': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(159,19): error C2065:  'endl': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(160,2): error C2065:  'cout': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(160,20): error C2065:  'endl': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(161,2): error C2065:  'cout': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(164,8): error C2143:  syntax error: missing ';' before '&'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(164,8): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(164,8): error C2086:  'int ostream': redefinition
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(111): message :  see declaration of 'ostream'
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(164,30): error C2065:  'os': undeclared identifier
+C:\Users\aisla\Documents\CS2134\fall 19\hw04\hw04\hw04.cpp(164,32): error C1003:  error count exceeds 100; stopping compilation
